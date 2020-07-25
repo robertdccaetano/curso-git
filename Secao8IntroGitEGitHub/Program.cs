@@ -6,10 +6,12 @@ namespace Secao8IntroGitEGitHub
     {
         static void Main(string[] args)
         {
+			Console.WriteLine("=======================");
             Console.WriteLine("Hello World!");
             Console.WriteLine("Como você está hoje?");
             Console.WriteLine("Tenha um bom dia, Senhor Jesus!");
             Console.WriteLine("Tchau");
+			Console.WriteLine("=======================");
         }
     }
 }
