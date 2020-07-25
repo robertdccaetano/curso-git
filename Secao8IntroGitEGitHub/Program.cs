@@ -9,6 +9,7 @@ namespace Secao8IntroGitEGitHub
             Console.WriteLine("Hello World!");
             Console.WriteLine("Como você está hoje?");
             Console.WriteLine("Tenha um bom dia, Senhor Jesus!");
+            Console.WriteLine("Tchau");
         }
     }
 }
